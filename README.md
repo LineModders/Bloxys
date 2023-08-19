@@ -16,9 +16,6 @@ This a working Roblox Studio from 2017
 # Studio Path
 please paste the path to your Bloxy's Studio, or rather the folder where you installed it.
 
-# official site
-- [TypedQue Site](https://typedque.tk)
-
 # Authors
 - [@Synthous (in devius)](https://youtube.com/Synthous)
-- [@Devius Studio](https://github.com/Deviusst)
+- [@Flow1zz](https://t.me/sipodloxpolnyi)
