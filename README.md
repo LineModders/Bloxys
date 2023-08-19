@@ -18,4 +18,4 @@ please paste the path to your Bloxy's Studio, or rather the folder where you ins
 
 # Authors
 - [@Synthous (in devius)](https://youtube.com/Synthous)
-- [@Flow1zz](https://t.me/sipodloxpolnyi)
+- [@Flow1zz](https://t.me/sipodloxpolniy)
