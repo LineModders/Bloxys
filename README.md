@@ -4,8 +4,9 @@
 ![AppScreenshot](https://cdn.discordapp.com/attachments/1133636453683961967/1133642074403643443/221_20230724141523.png)
 
 Roblox Studio from 2017! Have a fun!
-[![release](https://img.shields.io/badge/release-1.1-orange)](https://github.com/TypedQue/bloxys/releases/tag/v1.1)
+[![release](https://img.shields.io/badge/release-1.2-orange)](https://github.com/TypedQue/bloxys/releases/tag/v1.2)
 [![lissues](https://img.shields.io/badge/issues-TQ-orange)](https://www.github.com/TypedQue/bloxys/issues)
+[![Discord](https://img.shields.io/badge/release-1.2-blue)](https://github.com/TypedQue/bloxys/releases/tag/v1.2)
 
 
 # what?
