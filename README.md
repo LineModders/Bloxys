@@ -6,7 +6,7 @@
 Roblox Studio from 2017! Have a fun!
 [![release](https://img.shields.io/badge/release-1.2-orange)](https://github.com/TypedQue/bloxys/releases/tag/v1.2)
 [![lissues](https://img.shields.io/badge/issues-TQ-orange)](https://www.github.com/TypedQue/bloxys/issues)
-[![Discord](https://img.shields.io/badge/release-1.2-blue)](https://github.com/TypedQue/bloxys/releases/tag/v1.2)
+[![Discord](https://img.shields.io/badge/Discord-TypQ-blue)](https://discord.gg/3GwWYu7XJW)
 
 
 # what?
